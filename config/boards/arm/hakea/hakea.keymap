@@ -13,7 +13,7 @@
             #binding-cells = <0>;
             bindings
                 = <&macro_press &kp LALT>
-				, <&macro_wait_time 50>3
+				, <&macro_wait_time 50>
 				, <&macro_press &kp N1>
 				, <&macro_wait_time 100>
 				, <&macro_release &kp N1>
